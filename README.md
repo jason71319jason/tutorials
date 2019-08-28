@@ -61,3 +61,9 @@ They contain the dependencies, versions, and installation procedure.
 You should be able to run them directly on an Ubuntu 16.04 machine:
 - `sudo ./root-bootstrap.sh`
 - `sudo ./user-bootstrap.sh`
+
+## Add Dockerfile
+
+- Install Docker
+- `./build.sh`
+-`./run.sh`
