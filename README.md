@@ -65,5 +65,5 @@ You should be able to run them directly on an Ubuntu 16.04 machine:
 ## Add Dockerfile
 
 - Install Docker
-- `./build.sh`
--`./run.sh`
+- `./build.sh` 
+- `./run.sh`
